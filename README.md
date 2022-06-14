@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RSM009
+- 👋 Hi, I’m Ravi Shankar Meena (IITB CSE) 
 - 👀 I’m interested in doing coding in multiple languages like python,c++,c,java etc.
 - 🌱 I’m currently learning C++ ,and HTML , CSS and web development at IIT Bombay CSE department 
 - 💞️ I’m looking to collaborate on web development for making a website .
