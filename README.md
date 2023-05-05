@@ -3,15 +3,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rsm009&label=Profile%20views&color=0e75b6&style=flat" alt="rsm009" /> </p>
 
-- 🔭 I’m currently working on **python algo trading**
-
-- 💬 Ask me about **python , c++, some hacks**
+Hello there! My name is Ravi Shankar Meena and I am a student in the Computer Science Engineering department.<br>
+I have a great enthusiasm for coding, the stock market, and algorithms. I find joy in writing code and designing algorithms that can solve complex problems.<br> Additionally, I have a keen interest in the stock market and enjoy analyzing trends and patterns to make informed investment decisions. As a result, I spend a lot of my time reading and researching to keep up-to-date with the latest advancements in these fields. I am excited to see what the future holds and I am looking forward to applying my knowledge and skills to make a positive impact on society.
 
 - 📫 How to reach me **ravimeena2208@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ravimeena2208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ravimeena2208" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/ravishankarmeena009/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ravimeena2208" height="30" width="40" /></a>
+
+   <a href="https://www.linkedin.com/in/ravi-shankar-meena-19b818242/" target="blank"><img align="center" src="https://www.svgrepo.com/show/110195/linkedin.svg" alt="ravimeena2208" height="30" width="40" /></a>
+    <a href="https://www.cse.iitb.ac.in/~ravishankar/index.html" target="blank"><img align="center" src="https://www.svgrepo.com/show/242378/dribbble-brands-and-logotypes.svg" alt="ravimeena2208" height="30" width="40" /></a>
+  
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
